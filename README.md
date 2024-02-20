@@ -1,4 +1,4 @@
-#This is a repository for a FullStack Twitter clone tutorial using React, NextJS, TailwindCSS & Prisma.
+# This is a repository for a FullStack Twitter clone tutorial using React, NextJS, TailwindCSS & Prisma.
 
 ## To Run in Local
 
